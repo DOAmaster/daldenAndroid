@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_17a52efffafc5ebcfff123290e3ec12cf267cbe1/classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bd015245ee3a83b06381088fc88f1efe74e7e9a9/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_92f02097e34e804df0d9d7c77a71d16bd4ade3dd/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dc46882f996051078add8fe7b996f4ff63219f7e/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_067bb38087e24da244e7e0e42449229009c60502/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6fe62bbc871b388ce05a7c188caeef30dea769ab/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0aac4903371dda6b36453e900a60458e8cc91371/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d130d3b61d4a65eb70a5b3698ed9884d0f8434c7/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d60380ffb973df1dd70e2953a3fb1761246f5958/classes.dex" />
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_173c715be4eaaf3ca84aef70185db21e4779f381/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="b3c7dce249fad8f382a12592a42d47b17d934d82">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6fb4afef8313531815c01233a7d1787f101a4a0a/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5d4a7c76cedfdbc44e294379f9be5588c293f374/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8ec012807fa7012c4c6943e1c5e6b7383b6064ea/classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_234f928acbe1d6ec04d1556de29cf4eca4d025b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb66ecf3be1411971ebad84dcfcfa9defcc8461d/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4a7ef9c5d0683a6a2b6b813aa86b01ec2ca36e83">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_87a25a19206cb585c037811c965bbe5a105676c4/classes.dex" />
     </item>
     <item
         jar="/home/student/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9d261f16e87e7f097a99a7ba4bdf7dec8c785d86/classes.dex" />
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9d261f16e87e7f097a99a7ba4bdf7dec8c785d86/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7aa9b3b0347fca69eb506d8659f2294046f22c2d/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a1e6e074015c580e248407a824a9bc4bd8cbaf96/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e555f689a3b85e264e1c6e9f230d00db41785199/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_daf876aee9dc89936f37c1eae2ef8d865012435c/classes.dex" />
-    </item>
-    <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5beeaf15e821fa4822c685b7f65f84d437e601a1/classes.dex" />
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b79aebde89530885c9e34dcb3495641a039fdae4/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="864c7f3c0dba57426c089aeb997082fa3ce74ebf">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_71b9adb30a7e0b523540e50436f82befcdf3679b/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d2195d6f306b13530107146af59812d9c43678f3/classes.dex" />
     </item>
     <item
-        jar="/home/student/Desktop/AndroidDalden3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/student/Desktop/AndroidDalden3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4a7206517905416bd9fa3d0707d8cebff858bad9/classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_420f4e3f4aa5e0067428513badde08e5e01cf672/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7e63b0b94c1160e0f23a87412e2d7ec3466c87be/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b6f1e9ead0b19f7ca220a83b32e62c9e31d89ee">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9eba0be93719bc7df40dc8610fc1384bb12e4c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8517e151af91637832d0f68bd7a2affa4efd6e35/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_df6c91a182902fe5a828b02316e4268927af90fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0b81148c281725cf4b8381fa6da7d8eed28ab71f/classes.dex" />
+    </item>
+    <item
+        jar="/home/student/Desktop/daldenAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/student/Desktop/daldenAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_fa02147b70893e11e6497a55fe5601749bd05e53/classes.dex" />
     </item>
 
 </items>
