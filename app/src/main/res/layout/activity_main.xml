@@ -98,5 +98,23 @@
         android:layout_alignRight="@+id/creditsButton"
         android:layout_alignEnd="@+id/creditsButton" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/saveButton"
+        android:layout_above="@+id/shopButton"
+        android:layout_toLeftOf="@+id/shopButton"
+        android:layout_toStartOf="@+id/shopButton" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load"
+        android:id="@+id/loadButton"
+        android:layout_above="@+id/shopButton"
+        android:layout_toRightOf="@+id/saveButton"
+        android:layout_toEndOf="@+id/saveButton" />
+
 
 </RelativeLayout>
